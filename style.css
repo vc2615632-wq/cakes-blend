@@ -308,6 +308,7 @@ p {
 .nav a::after {
   content: "";
   position: absolute;
+  height:fit-content;
   left: 0;
   right: 100%;
   bottom: -6px;
