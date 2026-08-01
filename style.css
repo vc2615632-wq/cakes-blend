@@ -296,6 +296,7 @@ p {
   display: flex;
   align-items: center;
   gap: 22px;
+  height: fit-content
 }
 
 .nav a {
